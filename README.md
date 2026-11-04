@@ -116,6 +116,28 @@ This project answers 13 business questions, including:
 
 ### Screenshot 26
 ![Screenshot 26](Screenshot%202026-11-04%20163216.png)
+
+
+## 💡 Key Business Insights
+
+Based on the analysis of pizza sales data using MySQL, the following insights were identified:
+
+1. **Total Orders:** A total of 21,350 orders were placed.
+2. **Total Revenue:** The business generated 817,860.05 in revenue.
+3. **Popular Pizza Size:** Large pizzas were the most popular, with 18,956 units sold.
+4. **Top-Selling Pizza:** The Classic Deluxe Pizza was the most ordered pizza, with 2,453 units sold.
+5. **Category Performance:** The Classic category recorded the highest quantity sold, with 14,888 pizzas.
+6. **Highest Revenue Pizza:** The Thai Chicken Pizza generated the highest revenue of 43,434.25.
+7. **Revenue Contribution:** The Classic category contributed 26.91% of total revenue.
+8. **Average Daily Sales:** Approximately 138 pizzas were ordered per day.
+9. **Product Variety:** The dataset contains 32 different pizza types.
+10. **Pricing:** The Greek Pizza was the highest-priced pizza at 35.95.
+
+### Conclusion
+
+This project demonstrates how SQL can be used to analyze sales data, identify customer ordering patterns, evaluate product performance, and generate meaningful business insights to support data-driven decisions.
+
+
 ## Author
 **Abhishek Dwivedi**  
 Aspiring Data Analyst | Data Analyst Intern
