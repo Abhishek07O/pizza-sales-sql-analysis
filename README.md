@@ -36,6 +36,7 @@ This project answers 13 business questions, including:
 - `PIZZAS.sql` – SQL queries used for analysis.
 - CSV files – Raw datasets.
 - Portfolio PDF – Project presentation.
+- - 📄 [View Project Presentation (PDF)](Pizza%20Sales%20Analysis%20Using%20SQL%20Abhishek%20Dwivedi%20%281%29.pdf)
 
 ## 📊 SQL Query Results – Screenshots
 
